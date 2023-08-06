@@ -3,3 +3,4 @@
 venv
 CAH_project/db.sqlite3
 __pycache__
+temp_key.sh
